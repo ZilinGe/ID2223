@@ -2,7 +2,7 @@ name: air-quality-daily
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # 这个设置表示每10分钟运行一次
+    - cron: '*/5 * * * *'  # 这个设置表示每10分钟运行一次
   workflow_dispatch:
   push:
     branches:
