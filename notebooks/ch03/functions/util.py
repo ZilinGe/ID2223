@@ -14,6 +14,7 @@ from retry_requests import retry
 import hopsworks
 import hsfs
 from pathlib import Path
+from pandas.core.frame import DataFrame
 
 def get_historical_weather(city, start_date,  end_date, latitude, longitude):
     # latitude, longitude = get_city_coordinates(city)
@@ -180,6 +181,7 @@ def get_pm25(aqicn_url: str, country: str, city: str, street: str, day: datetime
         raise requests.exceptions.RequestException(data['data'])
 
     return aq_today_df
+
 
 
 def plot_air_quality_forecast(city: str, street: str, df: pd.DataFrame, file_path: str, hindcast=False):
