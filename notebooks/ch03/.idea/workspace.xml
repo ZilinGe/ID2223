@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6a76d94-1549-4f69-8012-fcd40b0440da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/1_1_rolling3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_1_rolling3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_air_quality_feature_backfill.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_air_quality_feature_backfill.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_air_quality_feature_pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_air_quality_feature_pipeline.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_air_quality_batch_inference.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4_air_quality_batch_inference.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/air-quality/assets/img/pm25_forecast.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/air-quality/assets/img/pm25_forecast.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/air-quality/assets/img/pm25_forecast_with_rolling.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/air-quality/assets/img/pm25_forecast_with_rolling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/air-quality/assets/img/pm25_hindcast_1day.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/air-quality/assets/img/pm25_hindcast_1day.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_1air_quality_batch_inference-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4_1air_quality_batch_inference-Copy1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
