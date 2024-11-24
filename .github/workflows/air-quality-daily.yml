@@ -2,8 +2,8 @@ name: air-quality-daily
 
 on:
   workflow_dispatch:  # 允许手动触发
-  schedule:           # 定时触发
-    - cron: '11 4 * * *'  # 每天 UTC 时间 06
+  # schedule:           # 定时触发
+    # - cron: '11 4 * * *'  # 每天 UTC 时间 06
 
 jobs:
   schedule_pipelines:
